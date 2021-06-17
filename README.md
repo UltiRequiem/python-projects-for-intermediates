@@ -14,6 +14,14 @@ of [@swastika0015](https://twitter.com/swastika0015).
 ## List of Projects:
 
 - [MP3 Player GUI](./mp3-player-gui/)
+- [URL Shorter](./url-shortener/)
+- [Speech Extraction from Video](./speech-extraction/)
+- [Contact Book](./contact-book/)
+- [The Snake Game](./snake-game/)
+- [Rock Paper Scissor Game](./rock-papper-scissors/)
+- [Typing Speed Test](./typing-speed-test/)
+- [YouTube Video Downloader](./yt-video-download/)
+- [Restaurant Billing System](./restaurant-billing-system/)
 
 ## Previous
 
