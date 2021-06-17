@@ -16,3 +16,7 @@ You also should check [UltiRequiem/python-projects-for-beginners](https://github
 ## List of Projects:
 
 - [MP3 Player GUI](./mp3-player-gui/)
+
+## Previous
+
+[UltiRequiem/python-projects-for-beginners](https://github.com/UltiRequiem/python-projects-for-beginners)
