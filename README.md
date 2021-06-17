@@ -11,8 +11,6 @@ python-projects-for-intermediates"><img alt="Code style: black" src="https://img
 All Proyects are taken from [this Twitter thread](https://twitter.com/swastika0015/status/1403308100115861508)
 of [@swastika0015](https://twitter.com/swastika0015).
 
-You also should check [UltiRequiem/python-projects-for-beginners](https://github.com/UltiRequiem/python-projects-for-beginners).
-
 ## List of Projects:
 
 - [MP3 Player GUI](./mp3-player-gui/)
