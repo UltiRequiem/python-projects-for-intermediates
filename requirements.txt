@@ -1,6 +1,6 @@
 bitly-api==0.3
 certifi==2026.10.19
 chardet==4.0.0
-idna==3.7
+idna==3.15
 requests==2.33.0
 urllib3==2.8.0
