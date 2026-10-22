@@ -3,4 +3,4 @@ certifi==2024.7.4
 chardet==4.0.0
 idna==3.7
 requests==2.33.0
-urllib3==1.26.19
+urllib3==2.8.0
